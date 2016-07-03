@@ -1,0 +1,3 @@
+[submodule "app/hamjs"]
+	path = app/hamjs
+	url = https://github.com/SpikE4343/hamjs.git
